@@ -63,7 +63,8 @@ const pizzaIdImpar = () => {
   })
 }
 
-//pizzaIdImpar()
+pizzaIdImpar()
+console.log("---------------------------------------")
 
 // B)
 const pizzaMenor = () => {
@@ -82,7 +83,8 @@ const pizzaMenor = () => {
 };
 
 
-//pizzaMenor()
+pizzaMenor()
+console.log("---------------------------------------")
 
 // C)
 const pizzaNombrePrecio = () => {
@@ -91,7 +93,8 @@ const pizzaNombrePrecio = () => {
   })
 }
 
-//pizzaNombrePrecio()
+pizzaNombrePrecio()
+console.log("---------------------------------------")
 
 // D)
 
@@ -101,5 +104,5 @@ const pizzaIngredientes = () => {
   })
 }
 
-//pizzaIngredientes()
+pizzaIngredientes()
 
